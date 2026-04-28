@@ -18,8 +18,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone git@github.com:AndreiZaikin/js-fastify-blog.git
-cd js-fastify-blog
+git clone git@github.com:AndreiZaikin/devops-for-developers-project-74.git
+cd devops-for-developers-project-74
 
 # Запуск в режиме разработки
 make dev
